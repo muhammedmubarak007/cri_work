@@ -23,21 +23,21 @@ const QUESTIONS = [
   },
   {
     id: 3,
-    question: "Overall, I am dissatisfied with myself.",
+    question: "I often question whether I have the skills to be a good parent. ",
     type: "buttons",
     options: ['Strongly Disagree', 'Disagree', 'Neutral', 'Agree', 'Strongly Agree'],
     field: "q1"
   },
   {
     id: 4,
-    question: "I often feel that I lack good qualities. ",
+    question: "Being a parent rarely makes me feel truly satisfied.  ",
     type: "buttons",
     options: ['Strongly Disagree', 'Disagree', 'Neutral', 'Agree', 'Strongly Agree'],
     field: "q2"
   },
   {
     id: 5,
-    question: "At times I think I am no good at all.",
+    question: "I frequently feel anxious or frustrated about my parenting. ",
     type: "buttons",
     options: ['Strongly Disagree', 'Disagree', 'Agree', 'Strongly Agree'],
     field: "q3"
