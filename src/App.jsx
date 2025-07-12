@@ -23,23 +23,23 @@ const QUESTIONS = [
   },
   {
     id: 3,
-    question: "I often question whether I have the skills to be a good parent. ",
+    question: "I often doubt my ability to learn new tasks at work. ",
     type: "buttons",
-    options: ['Strongly Disagree', 'Disagree', 'Neutral', 'Agree', 'Strongly Agree'],
+    options: ['Not at all true', 'Slightly true', 'Moderately true', 'Mostly true', 'Completely true'],
     field: "q1"
   },
   {
     id: 4,
-    question: "Being a parent rarely makes me feel truly satisfied.  ",
+    question: "I struggle to solve problems that come up in my job.",
     type: "buttons",
-    options: ['Strongly Disagree', 'Disagree', 'Neutral', 'Agree', 'Strongly Agree'],
+    options: ['Not at all true', 'Slightly true', 'Moderately true', 'Mostly true', 'Completely true'],
     field: "q2"
   },
   {
     id: 5,
-    question: "I frequently feel anxious or frustrated about my parenting. ",
+    question: "I find it difficult to work well as part of a team.",
     type: "buttons",
-    options: ['Strongly Disagree', 'Disagree', 'Agree', 'Strongly Agree'],
+    options:['Not at all true', 'Slightly true', 'Moderately true', 'Mostly true', 'Completely true'],
     field: "q3"
   }
 ];
